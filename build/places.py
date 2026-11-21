@@ -38,9 +38,9 @@ add("galleries","Leeds Art Gallery","The Headrow, LS1 3AA",
 add("galleries","Henry Moore Institute","74 The Headrow, LS1 3AH",
  "One of Europe's most important sculpture galleries, with changing exhibitions and a research library, next to the Art Gallery. Free.",
  "Free · archive visits must be booked",geo="Henry Moore Institute")
-add("galleries","The Tetley","17–33 Hunslet Road, LS10 1JQ",
- "A contemporary art centre in the art deco former headquarters of the Tetley brewery, with a bar-café.",
- "Check what's on before you go",geo="The Tetley, Leeds")
+add("bars","The Tetley","17–33 Hunslet Road, LS10 1JQ",
+ "The art deco former headquarters of the Tetley brewery, which brewed in Leeds for nearly 200 years. The art centre that was here closed in 2023, and Kirkstall Brewery reopened the building in 2024 as a bar and restaurant.",
+ "A short walk south of the river",price=2,geo="The Tetley, Leeds")
 
 # ---------------- SHOPS & ARCADES ----------------
 add("shops","Leeds Corn Exchange","Call Lane, LS1 7BR",
@@ -66,7 +66,7 @@ add("records","Crash Records","35 The Headrow, LS1 6PU",
 add("records","Jumbo Records","1–3 Merrion Centre, LS2 8NG",
  "The oldest record shop in Leeds, open since 1971, now in a bigger shop in the Merrion Centre, with every genre and big Record Store Day events.",
  "Huge on Record Store Day",geo="Jumbo Records, Leeds")
-add("records","Tribe Records","28 Kirkgate, LS1 6BY",
+add("records","Tribe Records","28 Kirkgate, LS2 7DR",
  "A specialist shop for house, techno and dance vinyl, with DJ equipment.",
  "For dance-music diggers",ta=False,geo="Tribe Records, Kirkgate, Leeds",ll=(53.7962,-1.5388))
 add("records","OK Comics","Thornton's Arcade, LS1 6LQ",
@@ -77,23 +77,20 @@ add("records","Colours May Vary","Leeds Corn Exchange, Call Lane, LS1 7BR",
  "Great for prints and design books",ta=False,geo="Colours May Vary, Leeds",ll=(53.7965,-1.5410))
 
 # ---------------- CAMERAS, MUSIC & TECH ----------------
-add("gear","West Yorkshire Cameras","Call Lane, LS1 7DH",
- "An analogue-only film camera shop that buys and sells classic cameras, lenses and accessories.",
- "Check opening days before going",ta=False,geo="West Yorkshire Cameras, Leeds")
 add("gear","Northern Guitars","41 Call Lane, LS1 7BT",
  "Buying and selling new, used and vintage guitars, amps and pedals for over 25 years, upstairs from its own café-bar with live music.",
  "Try before you buy; coffee downstairs",ta=False,geo="Northern Guitars, Leeds")
 add("gear","Hobgoblin Music","13 Eastgate, LS2 7LY",
  "A folk and acoustic instrument specialist with a second-hand section: mandolins, banjos, fiddles, whistles and guitars.",
  "Mon–Sat 10:00–18:00, Sun 11:00–16:00",ta=False,geo="Hobgoblin Music, Eastgate, Leeds")
-add("gear","Wex Photo Video Leeds","Moor Allerton, LS17",
+add("gear","Wex Photo Video Leeds","Units F&G, Moor Allerton District Centre, LS17 5NY",
  "A big camera shop with a constantly changing second-hand counter, all with a 12-month warranty.",
- "Closed Mondays, Tuesdays and Sundays",far=True,geo="Wex Photo Video, Leeds")
+ "Closed Sundays; check hours before going",far=True,geo="Wex Photo Video, Leeds")
 
 # ---------------- VINTAGE ----------------
-add("vintage","Blue Rinse","Merrion Street, LS2 8LQ",
- "A multi-storey vintage shop of jackets, denim, sportswear and dresses, part of a chain across the North.",
- "Near Jumbo Records",ta=False,who=["m","w"],geo="Blue Rinse, Leeds",ll=(53.8013,-1.5428))
+add("vintage","Blue Rinse","Silvercrest House, Call Lane, LS1",
+ "Leeds' original vintage store: a five-storey flagship on Call Lane full of jackets, denim, sportswear and dresses. A smaller second shop is at 57 Merrion Street.",
+ "The Merrion Street shop is near Jumbo Records",ta=False,who=["m","w"],geo="Blue Rinse Call Lane",ll=(53.7958,-1.5404))
 add("vintage","Best Vintage","New Market Street, LS1 6DG",
  "One of the biggest vintage clothing shops in Leeds.",
  "Near Kirkgate Market",ta=False,who=["m","w"],geo="Best Vintage, Leeds",ll=(53.7968,-1.5398))
@@ -110,9 +107,9 @@ add("markets","Kirkgate Market","Vicar Lane, LS2 7HY",
 add("cafes","Laynes Espresso","16 New Station Street, LS1 5DL",
  "Ranked among the UK's best independent coffee shops in 2026, by the station, with excellent coffee and brunch.",
  "Expect a queue for brunch",price=1,geo="Laynes Espresso, Leeds",ll=(53.7956,-1.5462))
-add("cafes","Miles & Co","Kirkgate Market, LS2 7HY",
- "A lovely little coffee stall inside Kirkgate Market.",
- "Coffee while you browse the market",price=1,ta=False,geo="Kirkgate Market",ll=(53.7973,-1.5390))
+add("cafes","Miles & Co","Koncept Studios, 94 Kirkgate, LS2 7DJ",
+ "A small specialty coffee spot that started in Kirkgate Market and now trades from Koncept Studios across the road.",
+ "Coffee before or after the market",price=1,ta=False,geo="Miles & Co, Kirkgate, Leeds",ll=(53.7966,-1.5378))
 
 # ---------------- EAT ----------------
 add("mid","The Empire Cafe","6 Fish Street, LS1 6DB",
@@ -120,20 +117,20 @@ add("mid","The Empire Cafe","6 Fish Street, LS1 6DB",
  "Book ahead now it's an award winner",price=2,geo="Empire Cafe, Leeds",ll=(53.7976,-1.5418))
 add("mid","Ox Club","Headrow House, 19 The Headrow, LS1 6PU",
  "Live-fire cooking and a seasonal British menu, one of Leeds' most acclaimed independent restaurants.",
- "Weekend brunch is excellent",price=3,geo="Ox Club, Leeds",ll=(53.7996,-1.5422))
+ "Check it's open: some listings show it closed",price=3,geo="Ox Club, Leeds",ll=(53.7996,-1.5422))
 add("cheap","Bundobust","6 Mill Hill, LS1 5DQ",
  "Indian vegetarian street food and craft beer, the Leeds original of a now-famous group, winner of Best Street Food at the 2026 Oliver Awards.",
  "Order lots of small plates to share",price=1,geo="Bundobust, Mill Hill, Leeds")
 add("mid","Tharavadu","7–8 Mill Hill, LS1 5DQ",
  "Keralan home cooking, repeatedly named Leeds' best Indian restaurant, with dosas, seafood curries and coconut everything.",
  "Book at weekends",price=2,geo="Tharavadu, Leeds")
-add("mid","Shears Yard","11–15 Wharf Street, LS2 7EH",
+add("mid","Shears Yard","11–15 Wharf Street, LS2 7EQ",
  "A modern European restaurant in an old rope-making warehouse in the Calls, regularly named among the city's finest independents.",
  "Good-value set menu",price=3,geo="Shears Yard, Leeds")
 
 # ---------------- PUBS & BARS ----------------
 add("pubs","Whitelocks","Turks Head Yard, off Briggate, LS1 6HB",
- "Leeds' oldest pub, from 1715, down a narrow yard off Briggate: a long bar of copper, brass and stained glass, named among the UK's best historic pubs and Leeds CAMRA's Winter Pub of the Season.",
+ "Leeds' oldest pub, from 1715, down a narrow yard off Briggate: a long bar of copper, brass and stained glass, named among the UK's best historic pubs and Leeds CAMRA's Winter 2024 Pub of the Season.",
  "Sit outside in the yard",price=1,geo="Whitelocks, Leeds")
 add("pubs","The Angel Inn","Angel Inn Yard, off Briggate, LS1 6LN",
  "A historic Sam Smith's pub down another Briggate yard, with very cheap beer and lots of little rooms.",
@@ -166,7 +163,7 @@ add("music","Leeds Grand Theatre","46 New Briggate, LS1 6NZ",
 add("fun","Chance & Counters","Merrion Street, LS2",
  "A thriving board-game café open until midnight, with hundreds of games and staff to teach you.",
  "Book a table at weekends",geo="Chance and Counters, Leeds",ll=(53.8015,-1.5437))
-add("fun","NQ64 Leeds","Merrion Street, LS2",
+add("fun","NQ64 Leeds","11 Merrion Street, LS1 6PQ",
  "A retro arcade bar with classic cabinets, pinball and game-themed cocktails.",
  "Free play in the day at weekends",geo="NQ64, Leeds",ll=(53.8014,-1.5442))
 add("fun","Escape Hunt Leeds","The Light, The Headrow, LS1 8TL",
@@ -208,3 +205,86 @@ add("trips","Ilkley & the Cow and Calf","Ilkley, LS29 8BT",
 add("trips","York","York Minster, YO1 7HH",
  "A walled medieval city with York Minster, the Shambles and the National Railway Museum.",
  "Train is easier than parking: 25 minutes",far=True,drive="45 min",geo="York Minster")
+
+# ---------------- REVIEW ADDITIONS (Nov 2026) ----------------
+add("cafes","Kapow Coffee (Thornton's Arcade)","15 Thornton's Arcade, LS1 6LQ",
+ "Speciality coffee over three floors, up a steep staircase, in the Victorian arcade. The original branch is at 46 The Calls.",
+ "Head upstairs for a quieter seat",price=1,geo="Kapow Coffee, Thornton's Arcade")
+add("cafes","La Bottega Milanese","The Light, The Headrow, LS1 8TL",
+ "A long-running Italian-style espresso bar with proper cornetti, one of Leeds' best-regarded independents.",
+ "Stand at the bar for a quick espresso, Milan-style",price=1,geo="La Bottega Milanese, The Light")
+add("cheap","Amazing Gyoza","Kirkgate Market, Vicar Lane, LS2 7HY",
+ "A market stall making hand-folded dumplings, fried or steamed, for a few pounds: one of the market's best-value lunches.",
+ "Go before 1pm on Saturdays to avoid the queue",price=1,ta=False,geo="Kirkgate Market",ll=(53.7971,-1.5392))
+add("cheap","Trinity Kitchen","Trinity Leeds, Albion Street, LS1 5AT",
+ "A street-food hall inside the Trinity shopping centre, with permanent stalls plus guest traders that change regularly.",
+ "Quick, easy lunch while shopping",price=1,geo="Trinity Kitchen, Leeds")
+add("splurge","Chef Jono at V&V","68 New Briggate, LS1 6NU",
+ "A small fine-dining restaurant with inventive modern British tasting menus. On Sundays it serves a five-course roast-dinner tasting menu.",
+ "Wed–Sat evenings and Sunday lunch; book ahead",price=4,geo="Chef Jono at V&V, Leeds")
+add("mid","Kendells Bistro","1 St Peter's Square, LS9 8AH",
+ "A long-running candlelit French bistro serving classics such as steak frites and moules from a chalkboard menu.",
+ "Early-evening set menu is good value; check it's open",price=3,geo="Kendells Bistro, Leeds")
+add("bars","Tabula Rasa","8 Eastgate, LS2 7JL",
+ "An art deco aperitivo and cocktail bar behind Victoria Gate, named in the 2026 UK Top 50 Cocktail Bars. Café by day, cocktails by night.",
+ "Closed Mondays",price=3,geo="Tabula Rasa, Eastgate, Leeds")
+add("bars","Water Lane Boathouse","Canal Wharf, Water Lane, LS11 5PS",
+ "A canalside bar and kitchen at Granary Wharf with a big terrace over the water and a shelf of board games.",
+ "Best on a sunny afternoon",price=2,geo="Water Lane Boathouse")
+add("pubs","Victoria Family & Commercial","28 Great George Street, LS1 3DL",
+ "An ornate 1865 pub right behind the Town Hall, with etched glass, carved wood and snugs.",
+ "Two minutes from the Town Hall",price=2,geo="Victoria Family and Commercial, Leeds")
+add("pubs","The Duck & Drake","43 Kirkgate, LS2 7DR",
+ "An unpretentious old boozer by Kirkgate Market with a long list of real ales and regular blues and rock gigs.",
+ "Live music most weekends",price=1,geo="Duck and Drake, Leeds")
+add("music","Headrow House","19 The Headrow, LS1 6PU",
+ "A multi-floor venue in a former textile mill, with a beer hall, roof terrace and a small upstairs room for gigs and DJs. Ox Club is inside.",
+ "Check gig listings; the roof terrace is free to visit",geo="Headrow House, Leeds")
+add("music","Hyde Park Book Club","27–29 Headingley Lane, LS6 1BL",
+ "A café-bar by day and a small basement venue by night, hosting indie gigs, comedy and spoken word.",
+ "Pair with the Hyde Park Picture House",far=True,geo="Hyde Park Book Club")
+add("food","George & Joseph Cheesemongers","Harrogate Road, Chapel Allerton, LS7",
+ "An award-winning cheesemonger, now in a bigger shop on Harrogate Road, strong on British farmhouse cheeses with tastings at the counter.",
+ "Combine with Chapel Allerton's cafés and bars",far=True,geo="George & Joseph Cheesemongers")
+add("food","The Cheesy Living Co","Leeds Corn Exchange, Call Lane, LS1 7BR",
+ "A cheese and charcuterie deli inside the Corn Exchange, also serving grazing boards to eat in.",
+ "Good place to pick up a picnic or a gift",ta=False,geo="Corn Exchange, Leeds",ll=(53.7962,-1.5412))
+add("vintage","Shush Interiors","Leeds Corn Exchange, Call Lane, LS1 7BR",
+ "Retro and mid-century furniture, lighting and one-off homewares, now in the Corn Exchange.",
+ "Stock changes weekly; ask about delivery for big pieces",ta=False,geo="Corn Exchange, Leeds",ll=(53.7964,-1.5409))
+add("charity","BHF Furniture & Electrical, Colton","Unit 4, Colton Retail Park, LS15 9JB",
+ "A large British Heart Foundation superstore selling second-hand sofas, tables, beds, wardrobes and tested electrical appliances.",
+ "Mon–Sat 9:00–18:00, Sun 10:30–16:30; bring a car for big buys",far=True,drive="15 min",geo="Colton Retail Park")
+add("galleries","The Gallery at 164","164 Woodhouse Lane, LS2 9HB",
+ "An independent city-centre gallery with changing shows by established and emerging artists, free to browse, with work for sale.",
+ "Check the website for current exhibitions",geo="Gallery at 164, Woodhouse Lane, Leeds")
+add("galleries","Craft Leeds","Leeds Art Gallery (lower level), The Headrow, LS1 3AB",
+ "A retail gallery of contemporary craft and design (ceramics, jewellery, glass and prints) by UK makers, trading since 1982.",
+ "Good for gifts made by makers",ta=False,geo="Leeds Art Gallery",ll=(53.8002,-1.5482))
+add("galleries","Sunny Bank Mills","Town Street, Farsley, LS28 5UJ",
+ "A restored worsted mill with a contemporary gallery, the mill archive, independent shops and a café, plus a gig and comedy venue.",
+ "Free gallery; check what's on",far=True,drive="20 min",geo="Sunny Bank Mills")
+add("fashion","Flannels (Briggate flagship)","Briggate, LS1",
+ "A six-floor luxury fashion flagship opened in 2024, stocking designer brands for men, women and children.",
+ "One of the biggest designer stores outside London",who=["m","w","k"],geo="Flannels, Briggate, Leeds",ll=(53.7985,-1.5426))
+add("parks","Temple Newsam","Temple Newsam Road, LS15 0AE",
+ "A Tudor-Jacobean house in 1,500 acres of Capability Brown parkland, with Home Farm, a rare-breeds working farm. The park is free to walk.",
+ "Allow half a day; parking is paid",far=True,drive="15 min",web="https://museumsandgalleries.leeds.gov.uk",geo="Temple Newsam House")
+add("parks","Golden Acre Park","Otley Road, Bramhope, LS16 9JY",
+ "A free park around a lake with gardens and woodland, the starting point for walks out to the Chevin and Eccup.",
+ "Café on site",far=True,drive="20 min",geo="Golden Acre Park")
+add("parks","Meanwood Valley Trail","Meanwood Park, Green Road, LS6 4LZ",
+ "A seven-mile waymarked walk from Woodhouse Ridge through Meanwood Park and the woods to Golden Acre Park, following a beck past old mill ponds.",
+ "Do the Meanwood Park to Adel section if short of time",far=True,geo="Meanwood Park")
+add("trips","Yorkshire Sculpture Park","West Bretton, Wakefield, WF4 4LG",
+ "500 acres of parkland with open-air works by Henry Moore, Barbara Hepworth and many others, plus indoor galleries.",
+ "Wear walking shoes; parking is paid",far=True,drive="30 min",web="https://ysp.org.uk",geo="Yorkshire Sculpture Park")
+add("trips","Hebden Bridge","Hebden Bridge, HX7 8AD",
+ "A former mill town in a steep Pennine valley, full of independent shops, cafés and canal walks, with a walk up to Hardcastle Crags.",
+ "The train from Leeds takes about 50 minutes",far=True,drive="45 min",geo="Hebden Bridge")
+add("trips","Knaresborough","Knaresborough, HG5 8AE",
+ "A market town with a railway viaduct over the River Nidd, castle ruins, rowing boats and Mother Shipton's Cave.",
+ "Wednesday is market day",far=True,drive="35 min",geo="Knaresborough Castle")
+add("trips","Otley","Otley, LS21 3AE",
+ "A market town below the Chevin, with Friday and Saturday markets, old pubs and a climb up to Surprise View.",
+ "Go on a market day; walk up the Chevin",far=True,drive="30 min",geo="Otley Market Place")

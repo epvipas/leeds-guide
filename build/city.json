@@ -1,12 +1,35 @@
 {
- "slug": "leeds", "city": "Leeds", "short": "Leeds",
+ "slug": "leeds",
+ "city": "Leeds",
+ "short": "Leeds",
  "tagline": "Eat · Drink · Arcades · Records · Galleries · Dales days out",
  "desc": "Independent Leeds: Victorian arcades, Kirkgate Market, record shops, real ale, galleries, gigs and Yorkshire days out, with maps, reviews and directions.",
- "theme": "#1F4E46", "gradient": "linear-gradient(110deg,#123A33,#2D6E62 55%,#D4A03A)",
- "icon_colors": ["#123A33", "#C2902F"], "stone": "#E3D7BD", "landmark": "townhall",
- "center": [53.7985, -1.5440], "zoom": 15,
- "base": {"name": "Leeds Town Hall", "addr": "Leeds Town Hall, The Headrow, LS1 3AD", "lat": 53.79995, "lon": -1.54922,
-          "q": "Leeds Town Hall, The Headrow, Leeds", "icon": "🦁", "short": "the Town Hall", "the": "the Town Hall"},
- "special": {"tab": "Arcades", "icon": "🛍️"},
- "version": 2
+ "theme": "#1F4E46",
+ "gradient": "linear-gradient(110deg,#123A33,#2D6E62 55%,#D4A03A)",
+ "icon_colors": [
+  "#123A33",
+  "#C2902F"
+ ],
+ "stone": "#E3D7BD",
+ "landmark": "townhall",
+ "center": [
+  53.7985,
+  -1.544
+ ],
+ "zoom": 15,
+ "base": {
+  "name": "Leeds Town Hall",
+  "addr": "Leeds Town Hall, The Headrow, LS1 3AD",
+  "lat": 53.79995,
+  "lon": -1.54922,
+  "q": "Leeds Town Hall, The Headrow, Leeds",
+  "icon": "🦁",
+  "short": "the Town Hall",
+  "the": "the Town Hall"
+ },
+ "special": {
+  "tab": "Arcades",
+  "icon": "🛍️"
+ },
+ "version": 3
 }

@@ -12,7 +12,7 @@ function renderSpecial() {
     ['Queens Arcade', 'Next door, through to Lands Lane.'],
     ['The Angel Inn', 'Another Briggate yard pub.'],
     ['Grand Arcade', 'Finish up on New Briggate by the Grand Theatre.'],
-    ['North Bar', 'A drink at the UK\'s first craft-beer bar.'],
+    ['North Bar', 'A drink at what\'s often called the UK\'s first craft-beer bar.'],
   ];
   $('#specialTrail').innerHTML = '<ol>' + stops.map(([n, t]) => `<li style="margin-bottom:8px">${iref(byName(n))}<br>${esc(t)}</li>`).join('') + '</ol>';
 }
@@ -35,8 +35,8 @@ function renderInfo() {
    <div class="day" style="background:#DDEBFA"><b>Day 2 · Art, armour &amp; the river:</b> ${refs(['Leeds Art Gallery', 'Henry Moore Institute', 'Leeds City Museum', 'Bundobust', 'Leeds Dock & the waterfront', 'Royal Armouries', 'Northern Monk Refectory', 'Brudenell Social Club'])}</div>
   </div>
   <div class="sec"><h2>🔎 Second-hand hunting</h2>
-   <div class="day" style="background:#FDEFD6"><b>Cameras, guitars, records &amp; vintage:</b> ${refs(['West Yorkshire Cameras', 'Northern Guitars', 'Hobgoblin Music', 'Wex Photo Video Leeds', 'Tribe Records', 'Blue Rinse', 'Best Vintage', 'Ryan Vintage'])}
-    <p style="margin:8px 0 0;font-size:13px">Call Lane has West Yorkshire Cameras and Northern Guitars a few doors apart.</p></div>
+   <div class="day" style="background:#FDEFD6"><b>Cameras, guitars, records &amp; vintage:</b> ${refs(['Northern Guitars', 'Hobgoblin Music', 'Wex Photo Video Leeds', 'Tribe Records', 'Blue Rinse', 'Best Vintage', 'Ryan Vintage'])}
+    <p style="margin:8px 0 0;font-size:13px">Northern Guitars and Blue Rinse are both on Call Lane. West Yorkshire Cameras' shop has closed.</p></div>
   </div>
   <div class="sec"><h2>🎸 Nights out &amp; sport</h2>
    <div class="day" style="background:#EFE2F8"><b>Gigs, theatre &amp; games:</b> ${refs(['Brudenell Social Club', 'Belgrave Music Hall & Canteen', 'City Varieties Music Hall', 'Leeds Grand Theatre', 'Hyde Park Picture House', 'Chance & Counters', 'NQ64 Leeds'])}</div>
@@ -51,7 +51,7 @@ function renderInfo() {
    <li>The city's council museums and galleries are free, and several close on Mondays.</li>
    <li>Book weekend dinners ahead, especially award winners like the Empire Cafe.</li></ul></div>
   <div class="sec"><h2>⚠️ Before you go</h2><ul>
-   <li><b>Recently closed:</b> Tapped, Salvio's, Emba, Revolution Electric Press and Geek Retreat Leeds have all closed, so they're not in the guide.</li>
+   <li><b>Recently closed:</b> Tapped, Salvio's, Emba, Revolution Electric Press, Geek Retreat Leeds and West Yorkshire Cameras' shop have all closed, and The Tetley art centre is now a bar, so they're not in the guide.</li>
    <li>Independent places change often. Check each venue's own site or socials before a special trip.</li>
    <li>Map pins come from OpenStreetMap and are close but not exact; use the Directions buttons for door-to-door routes.</li>
    <li>Information was checked in November 2026. The illustrations are original artwork drawn for this guide.</li></ul>
