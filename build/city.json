@@ -8,5 +8,5 @@
  "base": {"name": "Leeds Town Hall", "addr": "Leeds Town Hall, The Headrow, LS1 3AD", "lat": 53.79995, "lon": -1.54922,
           "q": "Leeds Town Hall, The Headrow, Leeds", "icon": "🦁", "short": "the Town Hall", "the": "the Town Hall"},
  "special": {"tab": "Arcades", "icon": "🛍️"},
- "version": 1
+ "version": 2
 }
