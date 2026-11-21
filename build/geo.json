@@ -1,1 +1,672 @@
-{"Leeds Town Hall": [[53.8002679, -1.5497207, "amenity", "townhall", "Leeds Town Hall, The Headrow, Little Woodhouse, Arena Quarter, Woodhouse, Leeds,"]], "Kirkstall Abbey": [[53.8206178, -1.6067432, "historic", "monastery", "Kirkstall Abbey (Ruins), Abbey Road, Hawksworth, Pudsey, Leeds, West Yorkshire, "]], "Hyde Park Picture House": [[53.8120583, -1.5694212, "amenity", "cinema", "Hyde Park Picture House, 73, Brudenell Road, Headingley, Leeds, West Yorkshire, "]], "Leeds Dock & the waterfront": [[53.7912468, -1.5332388, "leisure", "marina", "Leeds Dock, Armouries Square, Steander, Richmond Hill, Leeds, West Yorkshire, En"]], "Royal Armouries": [[53.7918315, -1.5322629, "tourism", "museum", "Royal Armouries, Armouries Drive, Steander, Hunslet, Leeds, West Yorkshire, Engl"]], "Leeds City Museum": [[53.8015726, -1.5468955, "tourism", "museum", "Leeds City Museum, Rossington Street, Arena Quarter, Lovell Park, Leeds, West Yo"]], "Thackray Museum of Medicine": [], "Leeds Industrial Museum, Armley Mills": [[53.8029224, -1.5828944, "tourism", "museum", "Leeds Industrial Museum, Canal Road, Armley, Leeds, West Yorkshire, England, LS1"]], "Abbey House Museum": [[53.8222574, -1.6070845, "tourism", "museum", "Abbey House Museum, Abbey Walk, Hawksworth, Leeds, West Yorkshire, England, LS5 "]], "Leeds Art Gallery": [[53.8000274, -1.5481087, "shop", "art;gift", "Leeds Art Gallery, The Headrow, Arena Quarter, Woodhouse, Leeds, West Yorkshire,"]], "Henry Moore Institute": [[53.8000727, -1.5475007, "amenity", "arts_centre", "Henry Moore Institute, 74, The Headrow, Arena Quarter, Lovell Park, Leeds, West "]], "The Tetley": [[53.7920414, -1.5396092, "building", "yes", "The Tetley, 17-33, Hunslet Road, Crown Point, Lovell Park, Leeds, West Yorkshire"]], "Leeds Corn Exchange": [[53.7959331, -1.5401845, "building", "retail", "Corn Exchange, Arena Quarter, Lovell Park, Leeds, West Yorkshire, England, LS1 7"]], "Victoria Quarter & County Arcade": [[53.7983658, -1.5411469, "highway", "footway", "County Arcade, Warehouse Hill, Arena Quarter, Lovell Park, Leeds, West Yorkshire"]], "Thornton's Arcade": [[53.798694, -1.542736, "highway", "footway", "Thornton's Arcade, Warehouse Hill, Arena Quarter, Lovell Park, Leeds, West Yorks"]], "Queens Arcade": [[53.7983862, -1.5428011, "highway", "footway", "Queens Arcade, Warehouse Hill, Arena Quarter, Lovell Park, Leeds, West Yorkshire"]], "Grand Arcade": [[53.8002655, -1.5403605, "building", "retail", "Grand Arcade, Merrion Street, Leylands, Arena Quarter, Lovell Park, Leeds, West "]], "Crash Records": [], "Jumbo Records": [[53.8010488, -1.5435845, "shop", "music", "Jumbo Records, 1-3 Merrion Centre, Merrion Street, Arena Quarter, Lovell Park, L"]], "Tribe Records": [], "OK Comics": [[53.7986487, -1.5429714, "shop", "collector", "OK Comics, 19, Thornton's Arcade, Warehouse Hill, Arena Quarter, Lovell Park, Le"]], "Colours May Vary": [], "West Yorkshire Cameras": [[53.7958618, -1.540421, "shop", "vacant", "West Yorkshire Cameras, Call Lane, Warehouse Hill, Arena Quarter, Lovell Park, L"]], "Northern Guitars": [[53.7952865, -1.540935, "amenity", "bar", "Northern Guitars, 41, Call Lane, Warehouse Hill, Arena Quarter, Lovell Park, Lee"]], "Hobgoblin Music": [[53.7989345, -1.5384958, "shop", "musical_instrument", "Hobgoblin Music, 13, Eastgate, Leylands, Arena Quarter, Lovell Park, Leeds, West"]], "Wex Photo Video Leeds": [[53.8453499, -1.5499587, "shop", "photo", "Wex Photo Video, King Lane, Moor Allerton, Leeds, West Yorkshire, England, LS17 "]], "Blue Rinse": [[53.8014172, -1.5440099, "shop", "clothes", "Blue Rinse, Merrion Street, Arena Quarter, Lovell Park, Leeds, West Yorkshire, E"]], "Best Vintage": [], "Ryan Vintage": [[53.7961008, -1.5415149, "shop", "clothes", "Ryan Vintage, Central Road, Warehouse Hill, Arena Quarter, Lovell Park, Leeds, W"]], "Kirkgate Market": [[53.7972328, -1.5383141, "landuse", "retail", "Leeds Kirkgate Market, Arena Quarter, Lovell Park, Leeds, West Yorkshire, Englan"]], "Laynes Espresso": [], "Miles & Co": [[53.7972328, -1.5383141, "landuse", "retail", "Leeds Kirkgate Market, Arena Quarter, Lovell Park, Leeds, West Yorkshire, Englan"]], "The Empire Cafe": [], "Ox Club": [], "Bundobust": [[53.7954782, -1.5455559, "amenity", "pub", "Bundobust, 6, Mill Hill, Warehouse Hill, Arena Quarter, Lovell Park, Leeds, West"]], "Tharavadu": [[53.7954449, -1.5455529, "amenity", "restaurant", "Tharavadu, 7-8, Mill Hill, Warehouse Hill, Arena Quarter, Lovell Park, Leeds, We"]], "Shears Yard": [[53.7951663, -1.5382737, "amenity", "restaurant", "Shears Yard, 11-15, Wharf Street, Warehouse Hill, Arena Quarter, Lovell Park, Le"]], "Whitelocks": [[53.7971655, -1.5428815, "amenity", "pub", "Whitelocks, 6-8, Turk's Head Yard, Warehouse Hill, Arena Quarter, Lovell Park, L"]], "The Angel Inn": [[53.7981667, -1.5427626, "amenity", "pub", "Angel Inn, Angel Inn Yard, Warehouse Hill, Arena Quarter, Lovell Park, Leeds, We"]], "The Grove Inn": [[53.7909301, -1.5479187, "amenity", "pub", "The Grove, 4, Back Row, Camp Field, Holbeck, Leeds, West Yorkshire, England, LS1"]], "North Bar": [[53.7995804, -1.5415842, "amenity", "bar", "North Bar, 24, New Briggate, Leylands, Arena Quarter, Lovell Park, Leeds, West Y"]], "Northern Monk Refectory": [[53.7907297, -1.5541866, "craft", "brewery", "Northern Monk Refectory LDS, Marshall Street, Holbeck Urban Village, Holbeck, Le"]], "Brudenell Social Club": [[53.8099441, -1.570764, "amenity", "pub", "Brudenell Social Club, 33, Queen's Road, Hyde Park, Leeds, West Yorkshire, Engla"]], "Belgrave Music Hall & Canteen": [[53.8008213, -1.5412777, "amenity", "pub", "Belgrave Music Hall and Canteen, 1, Cross Belgrave Street, Leylands, Arena Quart"]], "City Varieties Music Hall": [], "Leeds Grand Theatre": [[53.8000728, -1.5410867, "amenity", "theatre", "Leeds Grand Theatre, 46, New Briggate, Leylands, Arena Quarter, Lovell Park, Lee"]], "Chance & Counters": [], "NQ64 Leeds": [], "Escape Hunt Leeds": [], "Roundhay Park": [[53.8393512, -1.4978422, "leisure", "park", "Roundhay Park, Roundhay, Leeds, West Yorkshire, England, United Kingdom"]], "Leeds & Liverpool Canal towpath": [[53.7936447, -1.5489593, "landuse", "retail", "Granary Wharf, Holbeck, Leeds, West Yorkshire, England, United Kingdom"]], "Headingley Stadium": [[53.8171, -1.581794, "leisure", "stadium", "Headingley Stadium, Canterbury Road, Headingley, Leeds, West Yorkshire, England,"]], "Elland Road (Leeds United)": [[53.7778612, -1.5721775, "leisure", "stadium", "Elland Road Stadium, Elland Road, Islington, Beeston, Leeds, West Yorkshire, Eng"]], "Harewood House": [[53.8969227, -1.5273143, "building", "palace", "Harewood House, Harewood Approach, Harewood, Leeds, West Yorkshire, England, LS1"]], "Saltaire & Salts Mill": [[53.838789, -1.7872911, "tourism", "attraction", "Salts Mill, Victoria Road, Saltaire, Shipley, Baildon, Bradford, West Yorkshire,"]], "The Hepworth Wakefield": [[53.6759624, -1.4911164, "tourism", "gallery", "The Hepworth Wakefield, Doncaster Road, Belle Isle, Wakefield, West Yorkshire, E"]], "Haworth & the Bront\u00eb Parsonage": [[53.8311966, -1.9574451, "tourism", "museum", "Bronte Parsonage Museum, Church Street, Haworth Brow, Haworth and Stanbury, Hawo"]], "Ilkley & the Cow and Calf": [], "York": [[53.9623561, -1.0820834, "amenity", "place_of_worship", "York Minster, Minster Yard, Bootham, Bishophill, York, York and North Yorkshire,"]], "Kapow Coffee (Thornton's Arcade)": [[53.7983, -1.5421, "manual", "manual", "manual"]], "La Bottega Milanese": [[53.8003, -1.5465, "manual", "manual", "manual"]], "Amazing Gyoza": [[53.7972328, -1.5383141, "landuse", "retail", "Leeds Kirkgate Market, Arena Quarter, Lovell Park, Leeds, West Yorkshire, Englan"]], "Trinity Kitchen": [[53.7962, -1.544, "manual", "manual", "manual"]], "Chef Jono at V&V": [[53.801, -1.541, "manual", "manual", "manual"]], "Kendells Bistro": [[53.7971349, -1.5331891, "amenity", "restaurant", "Kendells Bistro, 3, St Peters Square, Quarry Hill, Arena Quarter, Lovell Park, L"]], "Tabula Rasa": [[53.798676, -1.5392075, "amenity", "restaurant", "Tabula Rasa, Eastgate, Warehouse Hill, Arena Quarter, Lovell Park, Leeds, West Y"]], "Water Lane Boathouse": [[53.7935, -1.55, "manual", "manual", "manual"]], "Victoria Family & Commercial": [[53.8013, -1.5485, "manual", "manual", "manual"]], "The Duck & Drake": [[53.7962, -1.5385, "manual", "manual", "manual"]], "Headrow House": [[53.7997027, -1.5443422, "craft", "caterer", "C H And Co Catering, 42, The Headrow, Arena Quarter, Lovell Park, Leeds, West Yo"]], "Hyde Park Book Club": [[53.8152267, -1.5636049, "amenity", "cafe", "Hyde Park Book Club, 27-29, Headingley Lane, Woodhouse Cliff, Hyde Park, Leeds, "]], "George & Joseph Cheesemongers": [[53.8302109, -1.5382306, "shop", "cheese", "George And Joseph Cheesemongers, 140, Harrogate Road, Gledhow Park, Moortown, Le"]], "The Cheesy Living Co": [[53.7959331, -1.5401845, "building", "retail", "Corn Exchange, Arena Quarter, Lovell Park, Leeds, West Yorkshire, England, LS1 7"]], "Shush Interiors": [[53.7959331, -1.5401845, "building", "retail", "Corn Exchange, Arena Quarter, Lovell Park, Leeds, West Yorkshire, England, LS1 7"]], "BHF Furniture & Electrical, Colton": [[53.7932708, -1.4344146, "shop", "variety_store", "B&M Home Store with Garden Centre, Selby Road, Colton Common, Swillington Common"]], "The Gallery at 164": [[53.805, -1.547, "manual", "manual", "manual"]], "Craft Leeds": [[53.8000274, -1.5481087, "shop", "art;gift", "Leeds Art Gallery, The Headrow, Arena Quarter, Woodhouse, Leeds, West Yorkshire,"]], "Sunny Bank Mills": [[53.8143477, -1.6719405, "landuse", "commercial", "Sunny Bank Mills, Stanningley, Farsley, Leeds, West Yorkshire, England, United K"]], "Flannels (Briggate flagship)": [[53.797507, -1.5419033, "shop", "clothes", "Flannels, 115-125, Briggate, Warehouse Hill, Arena Quarter, Lovell Park, Leeds, "]], "Temple Newsam": [[53.7842828, -1.4597214, "tourism", "museum", "Temple Newsam House, Temple Newsam Road, Halton, Colton, Leeds, West Yorkshire, "]], "Golden Acre Park": [[53.871496, -1.5891226, "leisure", "park", "Golden Acre Park, Bramhope, Leeds, West Yorkshire, England, LS16 8BQ, United Kin"]], "Meanwood Valley Trail": [[53.83234, -1.5742324, "leisure", "park", "Meanwood Park, Meanwood, Leeds, West Yorkshire, England, LS6 4LT, United Kingdom"]], "Yorkshire Sculpture Park": [[53.6057937, -1.5710442, "leisure", "park", "Yorkshire Sculpture Park, Huddersfield Road, West Bretton, Wakefield, West Yorks"]], "Hebden Bridge": [[53.7406425, -2.0092336, "place", "town", "Hebden Bridge, Calderdale, West Yorkshire, England, HX7 8AU, United Kingdom"]], "Knaresborough": [[54.0071819, -1.4692612, "tourism", "attraction", "Knaresborough Castle, Waterside, Calcutt, Knaresborough, North Yorkshire, York a"]], "Otley": [[53.905708, -1.6939704, "highway", "primary", "Market Place, Cross Green, Otley, Guiseley, Leeds, West Yorkshire, England, LS21"]]}
+{
+"Leeds Town Hall": [
+[
+53.8002679,
+-1.5497207,
+"amenity",
+"townhall",
+"Leeds Town Hall, The Headrow, Little Woodhouse, Arena Quarter, Woodhouse, Leeds,"
+]
+],
+"Kirkstall Abbey": [
+[
+53.8206178,
+-1.6067432,
+"historic",
+"monastery",
+"Kirkstall Abbey (Ruins), Abbey Road, Hawksworth, Pudsey, Leeds, West Yorkshire, "
+]
+],
+"Hyde Park Picture House": [
+[
+53.8120583,
+-1.5694212,
+"amenity",
+"cinema",
+"Hyde Park Picture House, 73, Brudenell Road, Headingley, Leeds, West Yorkshire, "
+]
+],
+"Leeds Dock & the waterfront": [
+[
+53.7912468,
+-1.5332388,
+"leisure",
+"marina",
+"Leeds Dock, Armouries Square, Steander, Richmond Hill, Leeds, West Yorkshire, En"
+]
+],
+"Royal Armouries": [
+[
+53.7918315,
+-1.5322629,
+"tourism",
+"museum",
+"Royal Armouries, Armouries Drive, Steander, Hunslet, Leeds, West Yorkshire, Engl"
+]
+],
+"Leeds City Museum": [
+[
+53.8015726,
+-1.5468955,
+"tourism",
+"museum",
+"Leeds City Museum, Rossington Street, Arena Quarter, Lovell Park, Leeds, West Yo"
+]
+],
+"Thackray Museum of Medicine": [],
+"Leeds Industrial Museum, Armley Mills": [
+[
+53.8029224,
+-1.5828944,
+"tourism",
+"museum",
+"Leeds Industrial Museum, Canal Road, Armley, Leeds, West Yorkshire, England, LS1"
+]
+],
+"Abbey House Museum": [
+[
+53.8222574,
+-1.6070845,
+"tourism",
+"museum",
+"Abbey House Museum, Abbey Walk, Hawksworth, Leeds, West Yorkshire, England, LS5 "
+]
+],
+"Leeds Art Gallery": [
+[
+53.8000274,
+-1.5481087,
+"shop",
+"art;gift",
+"Leeds Art Gallery, The Headrow, Arena Quarter, Woodhouse, Leeds, West Yorkshire,"
+]
+],
+"Henry Moore Institute": [
+[
+53.8000727,
+-1.5475007,
+"amenity",
+"arts_centre",
+"Henry Moore Institute, 74, The Headrow, Arena Quarter, Lovell Park, Leeds, West "
+]
+],
+"The Tetley": [
+[
+53.7920414,
+-1.5396092,
+"building",
+"yes",
+"The Tetley, 17-33, Hunslet Road, Crown Point, Lovell Park, Leeds, West Yorkshire"
+]
+],
+"Leeds Corn Exchange": [
+[
+53.7959331,
+-1.5401845,
+"building",
+"retail",
+"Corn Exchange, Arena Quarter, Lovell Park, Leeds, West Yorkshire, England, LS1 7"
+]
+],
+"Victoria Quarter & County Arcade": [
+[
+53.7983658,
+-1.5411469,
+"highway",
+"footway",
+"County Arcade, Warehouse Hill, Arena Quarter, Lovell Park, Leeds, West Yorkshire"
+]
+],
+"Thornton's Arcade": [
+[
+53.798694,
+-1.542736,
+"highway",
+"footway",
+"Thornton's Arcade, Warehouse Hill, Arena Quarter, Lovell Park, Leeds, West Yorks"
+]
+],
+"Queens Arcade": [
+[
+53.7983862,
+-1.5428011,
+"highway",
+"footway",
+"Queens Arcade, Warehouse Hill, Arena Quarter, Lovell Park, Leeds, West Yorkshire"
+]
+],
+"Grand Arcade": [
+[
+53.8002655,
+-1.5403605,
+"building",
+"retail",
+"Grand Arcade, Merrion Street, Leylands, Arena Quarter, Lovell Park, Leeds, West "
+]
+],
+"Crash Records": [],
+"Jumbo Records": [
+[
+53.8010488,
+-1.5435845,
+"shop",
+"music",
+"Jumbo Records, 1-3 Merrion Centre, Merrion Street, Arena Quarter, Lovell Park, L"
+]
+],
+"Tribe Records": [],
+"OK Comics": [
+[
+53.7986487,
+-1.5429714,
+"shop",
+"collector",
+"OK Comics, 19, Thornton's Arcade, Warehouse Hill, Arena Quarter, Lovell Park, Le"
+]
+],
+"Colours May Vary": [],
+"West Yorkshire Cameras": [
+[
+53.7958618,
+-1.540421,
+"shop",
+"vacant",
+"West Yorkshire Cameras, Call Lane, Warehouse Hill, Arena Quarter, Lovell Park, L"
+]
+],
+"Northern Guitars": [
+[
+53.7952865,
+-1.540935,
+"amenity",
+"bar",
+"Northern Guitars, 41, Call Lane, Warehouse Hill, Arena Quarter, Lovell Park, Lee"
+]
+],
+"Hobgoblin Music": [
+[
+53.7989345,
+-1.5384958,
+"shop",
+"musical_instrument",
+"Hobgoblin Music, 13, Eastgate, Leylands, Arena Quarter, Lovell Park, Leeds, West"
+]
+],
+"Wex Photo Video Leeds": [
+[
+53.8453499,
+-1.5499587,
+"shop",
+"photo",
+"Wex Photo Video, King Lane, Moor Allerton, Leeds, West Yorkshire, England, LS17 "
+]
+],
+"Blue Rinse": [
+[
+53.8014172,
+-1.5440099,
+"shop",
+"clothes",
+"Blue Rinse, Merrion Street, Arena Quarter, Lovell Park, Leeds, West Yorkshire, E"
+]
+],
+"Best Vintage": [],
+"Kirkgate Market": [
+[
+53.7972328,
+-1.5383141,
+"landuse",
+"retail",
+"Leeds Kirkgate Market, Arena Quarter, Lovell Park, Leeds, West Yorkshire, Englan"
+]
+],
+"Laynes Espresso": [],
+"Miles & Co": [
+[
+53.7972328,
+-1.5383141,
+"landuse",
+"retail",
+"Leeds Kirkgate Market, Arena Quarter, Lovell Park, Leeds, West Yorkshire, Englan"
+]
+],
+"The Empire Cafe": [],
+"Ox Club": [],
+"Bundobust": [
+[
+53.7954782,
+-1.5455559,
+"amenity",
+"pub",
+"Bundobust, 6, Mill Hill, Warehouse Hill, Arena Quarter, Lovell Park, Leeds, West"
+]
+],
+"Tharavadu": [
+[
+53.7954449,
+-1.5455529,
+"amenity",
+"restaurant",
+"Tharavadu, 7-8, Mill Hill, Warehouse Hill, Arena Quarter, Lovell Park, Leeds, We"
+]
+],
+"Shears Yard": [
+[
+53.7951663,
+-1.5382737,
+"amenity",
+"restaurant",
+"Shears Yard, 11-15, Wharf Street, Warehouse Hill, Arena Quarter, Lovell Park, Le"
+]
+],
+"Whitelocks": [
+[
+53.7971655,
+-1.5428815,
+"amenity",
+"pub",
+"Whitelocks, 6-8, Turk's Head Yard, Warehouse Hill, Arena Quarter, Lovell Park, L"
+]
+],
+"The Angel Inn": [
+[
+53.7981667,
+-1.5427626,
+"amenity",
+"pub",
+"Angel Inn, Angel Inn Yard, Warehouse Hill, Arena Quarter, Lovell Park, Leeds, We"
+]
+],
+"The Grove Inn": [
+[
+53.7909301,
+-1.5479187,
+"amenity",
+"pub",
+"The Grove, 4, Back Row, Camp Field, Holbeck, Leeds, West Yorkshire, England, LS1"
+]
+],
+"North Bar": [
+[
+53.7995804,
+-1.5415842,
+"amenity",
+"bar",
+"North Bar, 24, New Briggate, Leylands, Arena Quarter, Lovell Park, Leeds, West Y"
+]
+],
+"Northern Monk Refectory": [
+[
+53.7907297,
+-1.5541866,
+"craft",
+"brewery",
+"Northern Monk Refectory LDS, Marshall Street, Holbeck Urban Village, Holbeck, Le"
+]
+],
+"Brudenell Social Club": [
+[
+53.8099441,
+-1.570764,
+"amenity",
+"pub",
+"Brudenell Social Club, 33, Queen's Road, Hyde Park, Leeds, West Yorkshire, Engla"
+]
+],
+"Belgrave Music Hall & Canteen": [
+[
+53.8008213,
+-1.5412777,
+"amenity",
+"pub",
+"Belgrave Music Hall and Canteen, 1, Cross Belgrave Street, Leylands, Arena Quart"
+]
+],
+"City Varieties Music Hall": [],
+"Leeds Grand Theatre": [
+[
+53.8000728,
+-1.5410867,
+"amenity",
+"theatre",
+"Leeds Grand Theatre, 46, New Briggate, Leylands, Arena Quarter, Lovell Park, Lee"
+]
+],
+"Chance & Counters": [],
+"NQ64 Leeds": [],
+"Escape Hunt Leeds": [],
+"Roundhay Park": [
+[
+53.8393512,
+-1.4978422,
+"leisure",
+"park",
+"Roundhay Park, Roundhay, Leeds, West Yorkshire, England, United Kingdom"
+]
+],
+"Leeds & Liverpool Canal towpath": [
+[
+53.7936447,
+-1.5489593,
+"landuse",
+"retail",
+"Granary Wharf, Holbeck, Leeds, West Yorkshire, England, United Kingdom"
+]
+],
+"Headingley Stadium": [
+[
+53.8171,
+-1.581794,
+"leisure",
+"stadium",
+"Headingley Stadium, Canterbury Road, Headingley, Leeds, West Yorkshire, England,"
+]
+],
+"Elland Road (Leeds United)": [
+[
+53.7778612,
+-1.5721775,
+"leisure",
+"stadium",
+"Elland Road Stadium, Elland Road, Islington, Beeston, Leeds, West Yorkshire, Eng"
+]
+],
+"Harewood House": [
+[
+53.8969227,
+-1.5273143,
+"building",
+"palace",
+"Harewood House, Harewood Approach, Harewood, Leeds, West Yorkshire, England, LS1"
+]
+],
+"Saltaire & Salts Mill": [
+[
+53.838789,
+-1.7872911,
+"tourism",
+"attraction",
+"Salts Mill, Victoria Road, Saltaire, Shipley, Baildon, Bradford, West Yorkshire,"
+]
+],
+"The Hepworth Wakefield": [
+[
+53.6759624,
+-1.4911164,
+"tourism",
+"gallery",
+"The Hepworth Wakefield, Doncaster Road, Belle Isle, Wakefield, West Yorkshire, E"
+]
+],
+"Haworth & the Bront\u00eb Parsonage": [
+[
+53.8311966,
+-1.9574451,
+"tourism",
+"museum",
+"Bronte Parsonage Museum, Church Street, Haworth Brow, Haworth and Stanbury, Hawo"
+]
+],
+"Ilkley & the Cow and Calf": [],
+"York": [
+[
+53.9623561,
+-1.0820834,
+"amenity",
+"place_of_worship",
+"York Minster, Minster Yard, Bootham, Bishophill, York, York and North Yorkshire,"
+]
+],
+"Kapow Coffee (Thornton's Arcade)": [
+[
+53.7983,
+-1.5421,
+"manual",
+"manual",
+"manual"
+]
+],
+"Amazing Gyoza": [
+[
+53.7972328,
+-1.5383141,
+"landuse",
+"retail",
+"Leeds Kirkgate Market, Arena Quarter, Lovell Park, Leeds, West Yorkshire, Englan"
+]
+],
+"Trinity Kitchen": [
+[
+53.7962,
+-1.544,
+"manual",
+"manual",
+"manual"
+]
+],
+"Chef Jono at V&V": [
+[
+53.801,
+-1.541,
+"manual",
+"manual",
+"manual"
+]
+],
+"Tabula Rasa": [
+[
+53.798676,
+-1.5392075,
+"amenity",
+"restaurant",
+"Tabula Rasa, Eastgate, Warehouse Hill, Arena Quarter, Lovell Park, Leeds, West Y"
+]
+],
+"Water Lane Boathouse": [
+[
+53.7935,
+-1.55,
+"manual",
+"manual",
+"manual"
+]
+],
+"Victoria Family & Commercial": [
+[
+53.8013,
+-1.5485,
+"manual",
+"manual",
+"manual"
+]
+],
+"The Duck & Drake": [
+[
+53.7962,
+-1.5385,
+"manual",
+"manual",
+"manual"
+]
+],
+"Headrow House": [
+[
+53.7997027,
+-1.5443422,
+"craft",
+"caterer",
+"C H And Co Catering, 42, The Headrow, Arena Quarter, Lovell Park, Leeds, West Yo"
+]
+],
+"Hyde Park Book Club": [
+[
+53.8152267,
+-1.5636049,
+"amenity",
+"cafe",
+"Hyde Park Book Club, 27-29, Headingley Lane, Woodhouse Cliff, Hyde Park, Leeds, "
+]
+],
+"George & Joseph Cheesemongers": [
+[
+53.8302109,
+-1.5382306,
+"shop",
+"cheese",
+"George And Joseph Cheesemongers, 140, Harrogate Road, Gledhow Park, Moortown, Le"
+]
+],
+"The Cheesy Living Co": [
+[
+53.7959331,
+-1.5401845,
+"building",
+"retail",
+"Corn Exchange, Arena Quarter, Lovell Park, Leeds, West Yorkshire, England, LS1 7"
+]
+],
+"Shush Interiors": [
+[
+53.7959331,
+-1.5401845,
+"building",
+"retail",
+"Corn Exchange, Arena Quarter, Lovell Park, Leeds, West Yorkshire, England, LS1 7"
+]
+],
+"BHF Furniture & Electrical, Colton": [
+[
+53.7932708,
+-1.4344146,
+"shop",
+"variety_store",
+"B&M Home Store with Garden Centre, Selby Road, Colton Common, Swillington Common"
+]
+],
+"Craft Leeds": [
+[
+53.8000274,
+-1.5481087,
+"shop",
+"art;gift",
+"Leeds Art Gallery, The Headrow, Arena Quarter, Woodhouse, Leeds, West Yorkshire,"
+]
+],
+"Sunny Bank Mills": [
+[
+53.8143477,
+-1.6719405,
+"landuse",
+"commercial",
+"Sunny Bank Mills, Stanningley, Farsley, Leeds, West Yorkshire, England, United K"
+]
+],
+"Flannels (Briggate flagship)": [
+[
+53.797507,
+-1.5419033,
+"shop",
+"clothes",
+"Flannels, 115-125, Briggate, Warehouse Hill, Arena Quarter, Lovell Park, Leeds, "
+]
+],
+"Temple Newsam": [
+[
+53.7842828,
+-1.4597214,
+"tourism",
+"museum",
+"Temple Newsam House, Temple Newsam Road, Halton, Colton, Leeds, West Yorkshire, "
+]
+],
+"Golden Acre Park": [
+[
+53.871496,
+-1.5891226,
+"leisure",
+"park",
+"Golden Acre Park, Bramhope, Leeds, West Yorkshire, England, LS16 8BQ, United Kin"
+]
+],
+"Meanwood Valley Trail": [
+[
+53.83234,
+-1.5742324,
+"leisure",
+"park",
+"Meanwood Park, Meanwood, Leeds, West Yorkshire, England, LS6 4LT, United Kingdom"
+]
+],
+"Yorkshire Sculpture Park": [
+[
+53.6057937,
+-1.5710442,
+"leisure",
+"park",
+"Yorkshire Sculpture Park, Huddersfield Road, West Bretton, Wakefield, West Yorks"
+]
+],
+"Hebden Bridge": [
+[
+53.7406425,
+-2.0092336,
+"place",
+"town",
+"Hebden Bridge, Calderdale, West Yorkshire, England, HX7 8AU, United Kingdom"
+]
+],
+"Knaresborough": [
+[
+54.0071819,
+-1.4692612,
+"tourism",
+"attraction",
+"Knaresborough Castle, Waterside, Calcutt, Knaresborough, North Yorkshire, York a"
+]
+],
+"Otley": [
+[
+53.905708,
+-1.6939704,
+"highway",
+"primary",
+"Market Place, Cross Green, Otley, Guiseley, Leeds, West Yorkshire, England, LS21"
+]
+],
+"Ryan Vintage": [
+[
+53.7959844,
+-1.5417192,
+"highway",
+"unclassified",
+"Duncan Street, Warehouse Hill, Arena Quarter, Lovell Park, Leeds, West Yorkshire"
+]
+],
+"La Bottega Milanese": [
+[
+53.797957,
+-1.5478135,
+"amenity",
+"cafe",
+"La Bottega Milanese, 2, Bond Court, Warehouse Hill, Arena Quarter, Lovell Park, "
+]
+],
+"Kendells Bistro": [
+[
+53.7971349,
+-1.5331891,
+"amenity",
+"restaurant",
+"Kendells Bistro, 3, St Peters Square, Quarry Hill, Arena Quarter, Lovell Park, L"
+]
+],
+"The Gallery at 164": [
+[
+53.7968422,
+-1.5338769,
+"building",
+"yes",
+"Leeds Art Centre, Duke Street, Quarry Hill, Arena Quarter, Lovell Park, Leeds, W"
+]
+]
+}
